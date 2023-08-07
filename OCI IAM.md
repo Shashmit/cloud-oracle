@@ -20,4 +20,8 @@
           - RESOURCE TYPE : The type of Resources (Storage, Compute).
   
     **COMPARTMENTS**
-     - 
+     - Compartments are location where the admin user places the resources to be used by a specific group or users in ID. 
+     - Always create dedicated compartments to isolate resources
+     - Always enforce multi factor Authentication.
+  
+
